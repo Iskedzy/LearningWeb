@@ -1,0 +1,35 @@
+.header1 {
+
+}
+
+.title {
+    font-family: "Montserrat", serif;
+    margin-top: 100px;
+}
+
+.title a {
+    font-family: "Montserrat", serif;
+    text-decoration: none;
+    color:black;
+}
+
+.sidebar {
+    margin-right: 1700px;
+    margin-left: 70px;
+    position: fixed;
+}
+
+.nav {
+    font-family: sans-serif;
+    margin-top: 5px;
+    padding-right: 100px;
+    padding-left: 30px;
+}
+
+.nav a {
+    display: block;
+    text-align: center;
+    text-decoration: none; 
+    color: grey;
+    padding-top: 15px;
+}
